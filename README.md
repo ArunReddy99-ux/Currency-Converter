@@ -11,12 +11,9 @@ Simple, clean UI.
 Handles invalid or incomplete input gracefully.
 
 ## How It Works
-➡️User Input:
-The user enters an amount and selects the source and target currencies.
-➡️API Request:
-When any input changes, the app fetches the latest conversion rate from the Frankfurter API.
-➡️Display Result:
-The converted amount is displayed below the input fields.
+➡️User Input: The user enters an amount and selects the source and target currencies.
+➡️API Request: When any input changes, the app fetches the latest conversion rate from the Frankfurter API.
+➡️Display Result: The converted amount is displayed below the input fields.
 
 ## Component Breakdown
 App Component
@@ -45,8 +42,6 @@ Fetches conversion data and updates the result.
 Handles errors gracefully.
 
 ## API Used
-Frankfurter API:
-https://www.frankfurter.app/
-Endpoint Example:
-https://api.frankfurter.app/latest?amount=100&from=EUR&to=USD
+Frankfurter API: https://www.frankfurter.app/
+Endpoint Example: https://api.frankfurter.app/latest?amount=100&from=EUR&to=USD
 
