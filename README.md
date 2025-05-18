@@ -5,10 +5,10 @@ This project is a currency converter built with React. Users can input an amount
 The app fetches the latest conversion rate from the Frankfurter API and displays the converted amount.
 
 ## Features
--->Convert between USD, EUR, CAD, and INR.
--->Real-time conversion using a public API.
--->Simple, clean UI.
--->Handles invalid or incomplete input gracefully.
+ 1.Convert between USD, EUR, CAD, and INR.  
+ 2.Real-time conversion using a public API.  
+ 3.Simple, clean UI.
+ 4.Handles invalid or incomplete input gracefully.
 
 ## How It Works
 ➡️User Input: The user enters an amount and selects the source and target currencies.
