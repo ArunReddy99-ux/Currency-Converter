@@ -7,7 +7,7 @@ The app fetches the latest conversion rate from the Frankfurter API and displays
 ## Features
  1.Convert between USD, EUR, CAD, and INR.  
  2.Real-time conversion using a public API.  
- 3.Simple, clean UI.
+ 3.Simple, clean UI.  
  4.Handles invalid or incomplete input gracefully.
 
 ## How It Works
